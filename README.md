@@ -9,3 +9,5 @@ This is the official PyTorch package for the discrete VAE used for DALL·E. The 
 Before running [the example notebook](notebooks/usage.ipynb), you will need to install the package using
 
 	pip install DALL-E
+
+
